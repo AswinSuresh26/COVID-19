@@ -33,3 +33,4 @@ Standard Features:
 * India’s recovery rate stands at 98.75%. 1,841 patients have recovered in the last 24 hours and the cumulative tally of recovered patients (since the beginning of the pandemic) is now at 4,40,75,149.
 
 * India has the highest number of under-vaccinated or unvaccinated children worldwide at 3.5 million, an increase of 1.4 million from 2019, amid the Covid-19 pandemic outbreak, the UNICEF said.
+* For the better understanding we add pictures,table,graphs in the COVID-19 Tracker application
