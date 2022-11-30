@@ -1,6 +1,32 @@
 COVID-19 Tracker
 
 Objective:
-            *This application is used to track the covid-19 across india.
-            *
+*This application is used to track the COVID-19 across India.
+
          
+Performance:
+* Peak Load Performance
+
+Availability:
+* 99.99 % Availability 
+ 
+Standard Features:
+ * Scalability 
+ * Maintainability 
+ * Usability 
+ * Availability 
+ * Failover 
+ 
+ Logging & Auditing:
+* The system should support logging(app/web/DB) & auditing at all levels 
+
+ Monitoring:
+* Should be able to monitor via as-is enterprise monitoring tools 
+
+ Browser Compatible:
+*All latest browsers
+
+ Technology Stack:
+ * HTML/CSS/Java Script
+ 
+ Additional 
