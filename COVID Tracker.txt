@@ -1,4 +1,6 @@
 COVID-19 Tracker
 
 Objective:
+            *This application is used to track the covid-19 across india.
+            *
          
