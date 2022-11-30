@@ -1,4 +1,7 @@
 COVID-19 Tracker
 
 Objective:
+           This is a online application used to track the covid-19.
+
+
          
