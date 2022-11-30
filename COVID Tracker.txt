@@ -38,3 +38,6 @@ Standard Features:
 
 * Total number of people vaccinated 1th and 2th dose of 2,19,33,43,651 and precaution dose 21,86,50,160.
 * For the better understanding we add pictures,table,graphs in the COVID-19 Tracker application
+ Output :
+* The ultimate goal of this application is to keep the track of covid and giving awareness for people.
+* This helps us to understand the covid situation in india.
