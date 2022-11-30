@@ -38,3 +38,5 @@ Standard Features:
 
 * India has the highest number of under-vaccinated or unvaccinated children worldwide at 3.5 million, an increase of 1.4 million from 2019, amid the Covid-19 pandemic outbreak, the UNICEF said.
 * For the better understanding we add pictures,table,graphs in the COVID-19 Tracker application
+*Unvaccinated people account for 92 per cent of COVID-19 deaths in since January this year, the government said today
+*In India, 94% of the eligible population (12+) has received at least one shot, and 86% of the eligible population (12+) is fully vaccinated.
