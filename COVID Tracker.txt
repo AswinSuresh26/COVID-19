@@ -3,6 +3,10 @@ COVID-19 Tracker
 Objective:
 *This application is used to track the COVID-19 across India.
 
+Functional Requirements:
+*Build an application so that the customers or public users can access this site
+*this application does not contain sign up ,login or anyother
+*it should be user friendly
          
 Performance:
 * Peak Load Performance
