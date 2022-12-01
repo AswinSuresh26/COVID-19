@@ -39,7 +39,7 @@ Standard Features:
  * HTML/CSS/Java Script
  
  Additional:
-* India’s recovery rate stands at 98.75%. 1,841 patients have recovered in the last 24 hours and the cumulative tally of recovered patients (since the beginning of the pandemic) is now at 4,40,75,149.
+*India’s recovery rate stands at 98.75%. 1,841 patients have recovered in the last 24 hours and the cumulative tally of recovered patients (since the beginning of the pandemic) is now at 4,40,75,149.
 
 * Total number of people vaccinated 1th and 2th dose of 2,19,33,43,651 and precaution dose 21,86,50,160.
 * For the better understanding we add pictures,table,graphs in the COVID-19 Tracker application
