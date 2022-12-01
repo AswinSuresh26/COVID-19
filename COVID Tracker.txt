@@ -10,17 +10,15 @@ Functional Requirements:
 *An integrated platform required for admin and public.
          
 Performance:
-* Peak Load Performance
-
-Availability:
-* 99.99 % Availability         
-*eCommerce -&lt; 3 Sec 
+* Peak Load PerformanceeCommerce -&lt; 3 Sec 
 * Admin application &lt; 2 Sec 
 * Non-Peak Load Performance 
-*eCommerce &lt; 2 Sec 
-*Admin Application &lt; 2 Sec `
+* eCommerce &lt; 2 Sec 
+* Admin Application &lt; 2 Sec
 
- 
+Availability:
+* 99.99 % Availability       `
+
 Standard Features:
  * Scalability 
  * Maintainability 
